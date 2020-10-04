@@ -1,0 +1,84 @@
+a{
+    color: #11999E;
+}
+body{
+    text-align: center;    
+    margin: 0px;
+}
+h1{
+    font-size: 3.75rem;
+    margin: 50px auto 0px auto;
+    font-family: 'Dancing Script', cursive;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    color: #11999E;
+}
+p{
+
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    text-decoration: underline;
+}
+
+
+/* <---------------------------------class-selector----------------------------------> */
+
+
+.bottom-cloud{
+    position: absolute;
+}
+.BottomDiv{
+}
+.cricket{
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.cricket-des{
+}
+.footer-link{
+    color: #11999E;
+}
+.hacker{
+    border-radius: 1000%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.left{
+    text-align: left;
+}
+.MiddleDiv{
+}
+.my-img{
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+}
+.prog{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.TopDiv{
+    background-color: #e8ffff;
+    padding-top: 50px;
+}
+.top-cloud{
+    position: relative;
+    left: 180px;
+}

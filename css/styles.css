@@ -82,3 +82,15 @@ span{
     position: relative;
     left: 180px;
 }
+.sankat{
+    height: 100px;
+    width: 100px;
+    border: 10px;
+    margin: 5px;
+    padding: 10px;
+    position: absolute;
+    left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
+}

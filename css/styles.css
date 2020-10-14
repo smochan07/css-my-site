@@ -102,4 +102,7 @@ span{
     padding: 10px;
     position: absolute;
     left: auto;
+    right: auto;
+    top: auto;
+    bottom: auto;
 }

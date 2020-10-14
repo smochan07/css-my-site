@@ -97,4 +97,6 @@ span{
 .sms{
     height: 100px;
     width: 100px;
+    border: 10px;
+    margin: 5px;
 }

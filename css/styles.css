@@ -99,4 +99,7 @@ span{
     width: 100px;
     border: 10px;
     margin: 5px;
+    padding: 10px;
+    position: absolute;
+    left: auto;
 }
